@@ -33,6 +33,12 @@ p {
 .n1{
     font-size: 32px;
     color: red;
+    padding: px;
+}
+.n2{
+    width: 200px;
+    display: block;
+    margin: auto;
 }
 /* 3*3 Grid */
 #b1{ 
